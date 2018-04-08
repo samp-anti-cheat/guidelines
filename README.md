@@ -6,7 +6,6 @@ Original Guidelines:
 
 * Patches are to be designed to be included BEFORE YSI
 * Patches will contain ALS hooking only
-* Patches will contain a callback with the following prefix OnAntiCheat ..... () ex OnAntiCheatAutoAim(playerid)
 * Patches will have a description outlining the anticheat
 * Patches can use y_iterate
 
